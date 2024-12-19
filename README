@@ -1,0 +1,32 @@
+Description:
+This README generator command-line tool assists developers in producing a polished README for new projects in a timely manner.
+It automatically creates a professional, high-quality README.md file with all the required sections and asks users for important project information.
+Because Node.js and the Inquirer package were used in its development, the program is easy to use via the command line.
+
+Usage:
+After installing the necessary dependencies, you can run the application by entering the following command in your terminal: node index.js
+You will be prompted for the following information:
+Project Title: The title of your project.
+Description: A short description of the project.
+Installation Instructions: Steps to install the project.
+Usage Information: How to use the project.
+License: Choose a license for the project.
+Contributing: Guidelines for contributing to the project.
+Test Instructions: How to run tests for the project.
+GitHub Username: Your GitHub username for the Questions section.
+Email Address: Your email address for the Questions section.
+Once all the information is provided, a professional README.md will be generated in your project directory.
+
+License:
+This project is licensed under the MIT License.
+
+Contributing:
+We welcome contributions to this project! 
+To contribute:
+Fork the repository.
+Create a new branch for your feature or fix.
+Make your changes.
+Submit a pull request describing your changes.
+Please ensure that your code follows the project's style guidelines and is well-documented.
+
+Link to walkthrough video:
